@@ -1,6 +1,6 @@
-## Portfolio V2
+## Portfolio V1
 
-V2 of my portfolio. (Not deployed anymore)
+V1 of my portfolio. (Not deployed anymore)
 
 ![Home section](screenshots/home.png)
 ![About Me section](screenshots/about.png)
